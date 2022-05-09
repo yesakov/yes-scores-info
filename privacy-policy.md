@@ -1,7 +1,3 @@
-layout: page
-title: "Privacy Policy"
-permalink: /privacy-policy/
-
 **Privacy Policy**
 
 Ivan Yesakov built the Yes Scores app as a Free app. This SERVICE is provided by Ivan Yesakov at no cost and is intended for use as is.
